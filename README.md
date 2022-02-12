@@ -1,10 +1,9 @@
 # bin_cal
-Add two 3 bit binary numbers and output it on an LCD display
+Made a binary calculator using Arduino Uno, LCD display and push buttons. <br>
+<br>
+![WhatsApp Image 2022-02-12 at 20 36 31 (1)](https://user-images.githubusercontent.com/94758080/153725940-904958e1-23ba-450a-85f8-98b02ff60427.jpeg)
 
 <br>
-Made a binary calculator using Arduino Uno, LCD display and push buttons.
-
-![Opera Snapshot_2022-02-13_003815_www tinkercad com](https://user-images.githubusercontent.com/94758080/153724875-3dd7dd36-2d76-48d1-994b-83e82771753b.png)
 <br>
 <br>
 
@@ -13,8 +12,13 @@ There are five pushbuttons connected to the Arduino. <br>
 🔅 Forth is used to go to the next screen.  <br>
 🔅 Fifth is to turn the LCD backlight ON/OFF. <br>
 <br>
-When we first turn the device on, 'bin_cal' is displayed and screen turns blank.  <br>
-Press button 4 to start. Screen to enter first binary digit appears.
+
+![Opera Snapshot_2022-02-13_003815_www tinkercad com](https://user-images.githubusercontent.com/94758080/153724875-3dd7dd36-2d76-48d1-994b-83e82771753b.png)
+<br>
+<br>
+<br>
+🔅 When we first turn the device on, 'bin_cal' is displayed and screen turns blank.  <br>
+🔅 Press button 4 to start. Screen to enter first binary digit appears.
 <br>
 <br>
 <br>
@@ -29,4 +33,4 @@ Press button 4 to start. Screen to enter first binary digit appears.
 ![WhatsApp Image 2022-02-13 at 01 07 02](https://user-images.githubusercontent.com/94758080/153725788-20c510e6-0ea6-4a9c-a729-db42287ba17e.jpeg)
 <br>
 ### Sum is also displayed in both binary and decimal form.
-Press button four to add next set of binary digits. <br>
+🔅 Press button four to add next set of binary digits. <br>
