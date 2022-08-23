@@ -1,4 +1,4 @@
-# bin_cal
+# Binary Adder And Decimal Converter
 Made a binary calculator using Arduino Uno, LCD display and push buttons. <br>
 <br>
 ![WhatsApp Image 2022-02-12 at 20 36 31 (1)](https://user-images.githubusercontent.com/94758080/153725940-904958e1-23ba-450a-85f8-98b02ff60427.jpeg)
