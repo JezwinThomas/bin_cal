@@ -7,8 +7,8 @@ Made a binary calculator using Arduino Uno, LCD display and push buttons. <br>
 <br>
 <br>
 
-There are five pushbuttons connected to the Arduino. <br>
-🔅 The first three are used to enter the binary digits.  <br>
+There are five pushbuttons connected to the Arduino device. <br>
+🔅 The first three are used to enter the binary digits. br>
 🔅 Forth is used to go to the next screen.  <br>
 🔅 Fifth is to turn the LCD backlight ON/OFF. <br>
 <br>
