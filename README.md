@@ -34,3 +34,6 @@ There are five pushbuttons connected to the Arduino device. <br>
 <br>
 ### Sum is also displayed in both binary and decimal form.
 🔅 Press button four to add next set of binary digits. <br>
+🔅 If you would love to contribute to the project, please feel free to contact me incase of any queries
+
+
