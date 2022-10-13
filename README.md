@@ -9,7 +9,7 @@ Made a binary calculator using Arduino Uno, LCD display and push buttons. <br>
 
 There are five pushbuttons connected to the Arduino. <br>
 🔅 The first three are used to enter the binary digits.  <br>
-🔅 Forth is used to go to the next screen.  <br>
+🔅 Forth is used to go to the next screen. <br>
 🔅 Fifth is to turn the LCD backlight ON/OFF. <br>
 <br>
 
@@ -17,7 +17,7 @@ There are five pushbuttons connected to the Arduino. <br>
 <br>
 <br>
 <br>
-🔅 When we first turn the device on, 'bin_cal' is displayed and screen turns blank.  <br>
+🔅 When we first turn the device on, 'bin_cal' is displayed and screen turns blank. <br>
 🔅 Press button 4 to start. Screen to enter first binary digit appears.
 <br>
 <br>
@@ -33,4 +33,4 @@ There are five pushbuttons connected to the Arduino. <br>
 ![WhatsApp Image 2022-02-13 at 01 07 02](https://user-images.githubusercontent.com/94758080/153725788-20c510e6-0ea6-4a9c-a729-db42287ba17e.jpeg)
 <br>
 ### Sum is also displayed in both binary and decimal form.
-🔅 Press button four to add next set of binary digits. <br>
+🔅 Press button four to add next set of binary digits.  <br>
